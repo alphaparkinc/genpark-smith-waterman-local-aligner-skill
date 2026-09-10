@@ -1,0 +1,17 @@
+{
+  "name": "genpark-smith-waterman-local-aligner-skill",
+  "version": "1.0.0",
+  "description": "Smith-Waterman local sequence alignment algorithm identifying maximal local similarity regions between DNA, RNA, and protein sequences.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "smith-waterman",
+    "local-alignment",
+    "bioinformatics",
+    "motif-discovery",
+    "sequence-search"
+  ],
+  "dependencies": []
+}
